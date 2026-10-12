@@ -1,0 +1,5 @@
+name: HungerGames
+main: com.happyuky7.openvoxelmoding.server.hungergames.HungerGames
+version: 0.1.0
+author: HappyUky7
+description: Minimal Hunger Games mini-game (/hg start)
